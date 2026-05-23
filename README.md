@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-stack+developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Rust+%7C+TypeScript+%7C+Python+%7C+Flutter;AI+%2B+Automation+%2B+Linux+enthusiast;Always+breaking+(and+fixing)+my+Hyprland+config" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-stack+developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Rust+enthusiast;AI+agent+builder;Linux+ricing+addict" alt="Typing SVG" />
 </p>
 
 ---
@@ -62,15 +62,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sumerchoudhary78&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sumerchoudhary78&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sumerchoudhary78&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sumerchoudhary78&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sumerchoudhary78&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sumerchoudhary78&theme=tokyonight&no-frame=true&column=7&margin-w=10&cache_seconds=1800" alt="GitHub Trophies" />
 </p>
 
 ---
