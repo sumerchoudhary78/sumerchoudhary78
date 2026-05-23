@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-stack+developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Rust+enthusiast;AI+agent+builder;Linux+ricing+addict" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-stack+developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Rust+%26+Systems+Programming;AI+Agents+%26+Automation;Linux+enthusiast+%26+Hyprland+ricer" alt="Typing SVG" />
 </p>
 
 ---
@@ -29,6 +29,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 **Frameworks & Tools**
 
@@ -48,21 +49,26 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| 🦞 **[openclaw](https://github.com/sumerchoudhary78/openclaw)** | Cross-platform personal AI assistant — *the lobster way* | TypeScript |
-| 🪟 **[shell_maintenance](https://github.com/sumerchoudhary78/shell_maintenance)** | Custom Caelestia / Quickshell setup with "no way bar" | QML |
-| 🧪 **QA_automation_rust** | Browser QA automation built with `thirtyfour` in Rust | Rust |
-| 📱 **VegeManagement / free_vege** | Farm & vegetable management apps | Dart, Node.js, SQL |
-| 🧠 **agent_soul** | Experimental AI agent framework | JavaScript |
-| 🌐 **portfolio-sumer** | Personal portfolio website | JavaScript |
+| Project | Description | Language | Status |
+|---|---|---|---|
+| 🦞 **[openclaw](https://github.com/sumerchoudhary78/openclaw)** | Cross-platform personal AI assistant — *the lobster way* | TypeScript | Active |
+| 🪟 **[shell_maintenance](https://github.com/sumerchoudhary78/shell_maintenance)** | Custom Caelestia / Quickshell setup with "no way bar" | QML | Maintained |
+| 🔧 **[HyprPilot](https://github.com/sumerchoudhary78/HyprPilot)** | Typed Rust client + daemon + CLI for Hyprland. Built for AI agents. | Rust | Active (5 open issues) |
+| ⏱️ **[adb-watchdog](https://github.com/sumerchoudhary78/adb-watchdog)** | On-device watchdog for Android wireless ADB | Kotlin | New |
+| 📱 **[tailscale-watchdog-android](https://github.com/sumerchoudhary78/tailscale-watchdog-android)** | VPN state monitor and Tailscale reconnector for aggressive OEMs | Kotlin | New |
 
 ---
 
 ### 📊 GitHub Stats
 
+**Current Activity:**
+- **Total Repositories**: 6 projects
+- **Recent Activity**: Multiple projects updated within last 24 hours
+- **Primary Languages**: Rust, TypeScript, Kotlin
+- **Current Focus**: AI agents, Rust systems programming, Android automation
+
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sumerchoudhary78&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sumerchoudhary78&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
