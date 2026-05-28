@@ -76,7 +76,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sumerchoudhary78&theme=tokyonight&no-frame=true&column=7&margin-w=10&cache_seconds=1800" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sumerchoudhary78&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
