@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-stack+developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Rust+%26+Systems+Programming;AI+Agents+%26+Automation;Linux+enthusiast+%26+Hyprland+ricer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-stack+developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Ru[...]
 </p>
 
 ---
@@ -68,7 +68,7 @@
 - **Current Focus**: AI agents, Rust systems programming, Android automation
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sumerchoudhary78&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sumerchoudhary78&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=tr[...]
 </p>
 
 <p align="center">
