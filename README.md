@@ -76,7 +76,7 @@
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=sumerchoudhary78&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://gh-trophy.cdnsoft.net/?username=sumerchoudhary78&theme=tokyonight&column=6&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
