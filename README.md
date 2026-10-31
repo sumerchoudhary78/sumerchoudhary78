@@ -69,8 +69,6 @@ A foreground-service watchdog that monitors Android VPN state and reconnects Tai
 </tr>
 </table>
 
-**Also on the bench:** [Invoice & Payment Service](https://github.com/sumerchoudhary78/dodo-payments-assignment) — a Rust / Axum / Postgres assignment covering idempotent payments, payment-provider failures, and signed webhooks.
-
 ## Toolkit
 
 | Where I work | What I reach for |
