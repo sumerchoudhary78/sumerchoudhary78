@@ -1,97 +1,102 @@
-<h1 align="center">Hi there, I'm Sumer Jakhar 👋</h1>
 <p align="center">
-  <em>Builder of AI agents, automation tools, and over-engineered Linux rices.</em>
+  <img src="assets/banner.svg" width="100%" alt="Sumer Jakhar — Rust, agents, and systems. Building tools that take control of the machine." />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-stack+developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Ru[...]
+  <a href="#selected-builds">Selected builds</a> &nbsp; / &nbsp;
+  <a href="#toolkit">Toolkit</a> &nbsp; / &nbsp;
+  <a href="https://github.com/sumerchoudhary78?tab=repositories">All repositories</a>
 </p>
+
+I’m **Sumer**, a software developer from India. I build tools for AI agents, Linux desktops, and Android devices — from deterministic game worlds to watchdogs that keep a connection alive.
+
+My favorite projects make a machine easier to control, inspect, or recover when something goes wrong.
+
+## Selected builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 / AgentForge
+**Game worlds built for agents.**
+
+A headless, deterministic engine with grid dungeons and rigid-body physics. Agents create scenes, play, diagnose failures, and verify replays through JSON Lines and MCP tools.
+
+`Rust` · `Simulation` · `MCP`
+
+[Explore the engine →](https://github.com/sumerchoudhary78/aigameengine)
+
+</td>
+<td width="50%" valign="top">
+
+### 02 / HyprPilot
+**Give agents the keys to the desktop.**
+
+A typed Rust client, daemon, and CLI for Hyprland. Desktop control designed to be driven by AI agents.
+
+`Rust` · `Linux` · `Hyprland`
+
+[Explore desktop control →](https://github.com/sumerchoudhary78/HyprPilot)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 / ADB Watchdog
+**Keep wireless debugging within reach.**
+
+An on-device watchdog that keeps Android wireless ADB enabled, using an accessibility service with a secure-settings fallback. Tested on Realme Narzo 50 / ColorOS.
+
+`Kotlin` · `Android` · `ADB`
+
+[Explore the watchdog →](https://github.com/sumerchoudhary78/adb-watchdog)
+
+</td>
+<td width="50%" valign="top">
+
+### 04 / Tailscale Watchdog
+**Bring the tunnel back.**
+
+A foreground-service watchdog that monitors Android VPN state and reconnects Tailscale when it drops. Built for phones with aggressive background-process management.
+
+`Kotlin` · `Android` · `Networking`
+
+[Explore VPN recovery →](https://github.com/sumerchoudhary78/tailscale-watchdog-android)
+
+</td>
+</tr>
+</table>
+
+**Also on the bench:** [Invoice & Payment Service](https://github.com/sumerchoudhary78/dodo-payments-assignment) — a Rust / Axum / Postgres assignment covering idempotent payments, payment-provider failures, and signed webhooks.
+
+## Toolkit
+
+| Where I work | What I reach for |
+| :--- | :--- |
+| Systems & agent tooling | Rust · TypeScript · Python |
+| Web applications | React · Next.js · Node.js · JavaScript |
+| Android utilities | Kotlin · ADB |
+| Data & development | PostgreSQL · SQLite · Git · Linux · Neovim |
+| Desktop experiments | Hyprland · Quickshell · QML |
+
+<details>
+<summary><strong>Forks & experiments</strong> — the upstream projects I tinker with</summary>
+
+- [shell_maintenance](https://github.com/sumerchoudhary78/shell_maintenance) — my customizations to the Caelestia / Quickshell desktop shell.
+- [openclaw](https://github.com/sumerchoudhary78/openclaw) — a fork of the cross-platform personal AI assistant.
+- [moli](https://github.com/sumerchoudhary78/moli) — a fork of a Rust headless browser for AI agents.
+
+These are forks; credit for the original projects belongs to their upstream authors.
+
+</details>
 
 ---
 
-### 🧠 About Me
-
-- 🔭 Currently building **AI agents** and **QA automation tooling** in Rust
-- 🦞 Working on [`openclaw`](https://github.com/sumerchoudhary78/openclaw) — a cross-platform personal AI assistant
-- 🌱 Deep-diving into **Rust**, **systems programming**, and **agentic workflows**
-- 🐧 I daily-drive Linux with a custom **Hyprland + Caelestia** setup
-- 📫 Reach me via GitHub — *I may be slow to respond.*
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-**Frameworks & Tools**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Environment**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=black)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Language | Status |
-|---|---|---|---|
-| 🦞 **[openclaw](https://github.com/sumerchoudhary78/openclaw)** | Cross-platform personal AI assistant — *the lobster way* | TypeScript | Active |
-| 🪟 **[shell_maintenance](https://github.com/sumerchoudhary78/shell_maintenance)** | Custom Caelestia / Quickshell setup with "no way bar" | QML | Maintained |
-| 🔧 **[HyprPilot](https://github.com/sumerchoudhary78/HyprPilot)** | Typed Rust client + daemon + CLI for Hyprland. Built for AI agents. | Rust | Active (5 open issues) |
-| ⏱️ **[adb-watchdog](https://github.com/sumerchoudhary78/adb-watchdog)** | On-device watchdog for Android wireless ADB | Kotlin | New |
-| 📱 **[tailscale-watchdog-android](https://github.com/sumerchoudhary78/tailscale-watchdog-android)** | VPN state monitor and Tailscale reconnector for aggressive OEMs | Kotlin | New |
-
----
-
-### 📊 GitHub Stats
-
-**Current Activity:**
-- **Total Repositories**: 6 projects
-- **Recent Activity**: Multiple projects updated within last 24 hours
-- **Primary Languages**: Rust, TypeScript, Kotlin
-- **Current Focus**: AI agents, Rust systems programming, Android automation
-
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sumerchoudhary78&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=tr[...]
+  <strong>Have a bug, an idea, or a useful edge case?</strong><br />
+  Open an issue in the relevant repository. Concrete repros are always welcome.
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sumerchoudhary78&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://gh-trophy.cdnsoft.net/?username=sumerchoudhary78&theme=tokyonight&column=6&margin-w=15" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🌐 Connect
-
-<p align="left">
-  <a href="https://github.com/sumerchoudhary78"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumerchoudhary78&style=flat-square&color=58A6FF" alt="profile views" />
-</p>
-
-<p align="center"><em>"Stay curious, ship often, and rice responsibly." 🐧</em></p>
+<p align="center"><sub>Stay curious. Ship useful things. Rice responsibly.</sub></p>
